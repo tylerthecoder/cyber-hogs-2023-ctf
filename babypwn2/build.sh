@@ -1,0 +1,1 @@
+gcc -static -static-libgcc -static-libstdc++ -fno-stack-protector -no-pie main.c -o main
